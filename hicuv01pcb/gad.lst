@@ -1,0 +1,129 @@
+eeschema (2012-01-19 BZR 3256)-stable  >> Creation date: 7/26/2012 12:43:58 PM
+
+#Cmp ( order = Reference )
+| C1         22pf        
+| C2         22pf        
+| C3         100n        
+| C4         100n        
+| C5         4.7uf       
+| C6         100n        
+| D1         LED         
+| D2         LED         
+| D3         ZENER 3.6v  
+| D4         ZENER 3.6v  
+| IC1        ATMEGA640-A 
+| J1         USB         
+| K1         IR          
+| L1         INDUCTOR    
+| P1         PL          
+| P2         PJ          
+| P3         PH          
+| P4         PG          
+| P5         PA          
+| P6         PC          
+| P7         PE          
+| P8         PB          
+| P9         JOYSTICK    
+| P10        SLIDERS     
+| P11        SERIAL      
+| P12        POTS        
+| P13        ISPROG      
+| P14        STRINGS     
+| Q1         BC327       
+| Q2         BC327       
+| Q3         BC327       
+| Q4         BC327       
+| Q5         BC327       
+| Q6         BC327       
+| R1         47k         
+| R2         860/1k      
+| R3         1.6/2.5     
+| R4         100/?       
+| R5         R           
+| R6         R           
+| R7         R           
+| R8         R           
+| R9         R           
+| R10        300         
+| R11        300         
+| R12        R           
+| R13        R           
+| R14        R           
+| R15        68          
+| R16        68          
+| R17        R           
+| R18        1.5k        
+| R19        R           
+| R20        R           
+| R21        R           
+| R22        R           
+| R23        R           
+| R24        R           
+| SW1        SW_PUSH     
+| X1         16mhz       
+#End Cmp
+
+#Cmp ( order = Value )
+| 1.5k         R18       
+| 1.6/2.5      R3        
+| 100/?        R4        
+| 100n         C3        
+| 100n         C4        
+| 100n         C6        
+| 16mhz        X1        
+| 22pf         C1        
+| 22pf         C2        
+| 300          R10       
+| 300          R11       
+| 4.7uf        C5        
+| 47k          R1        
+| 68           R15       
+| 68           R16       
+| 860/1k       R2        
+| ATMEGA640-A  IC1       
+| BC327        Q1        
+| BC327        Q2        
+| BC327        Q3        
+| BC327        Q4        
+| BC327        Q5        
+| BC327        Q6        
+| INDUCTOR     L1        
+| IR           K1        
+| ISPROG       P13       
+| JOYSTICK     P9        
+| LED          D1        
+| LED          D2        
+| PA           P5        
+| PB           P8        
+| PC           P6        
+| PE           P7        
+| PG           P4        
+| PH           P3        
+| PJ           P2        
+| PL           P1        
+| POTS         P12       
+| R            R5        
+| R            R6        
+| R            R7        
+| R            R8        
+| R            R9        
+| R            R12       
+| R            R13       
+| R            R14       
+| R            R17       
+| R            R19       
+| R            R20       
+| R            R21       
+| R            R22       
+| R            R23       
+| R            R24       
+| SERIAL       P11       
+| SLIDERS      P10       
+| STRINGS      P14       
+| SW_PUSH      SW1       
+| USB          J1        
+| ZENER 3.6v   D3        
+| ZENER 3.6v   D4        
+#End Cmp
+
+#End List

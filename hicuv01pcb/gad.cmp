@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by CvPcb (2011-nov-30)-testing date = Wed 05 Sep 2012 08:39:20 PM EDT
+
+BeginCmp
+TimeStamp = /500DBD40;
+Reference = C1;
+ValeurCmp = 22pf;
+IdModule  = CAP_KEM_C1002_X7R_3.20x1.60SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DBD47;
+Reference = C2;
+ValeurCmp = 22pf;
+IdModule  = CAP_KEM_C1002_X7R_3.20x1.60SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DC687;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = CAP_KEM_C1002_X7R_3.20x1.60SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DC79F;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = CAP_KEM_C1002_X7R_3.20x1.60SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DBE2C;
+Reference = C5;
+ValeurCmp = 4.7uf;
+IdModule  = CP_5mm_TH;
+EndCmp
+
+BeginCmp
+TimeStamp = /500ED788;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = CAP_KEM_C1002_X7R_3.20x1.60SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /500F1B89;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /500F1D95;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DCDA8;
+Reference = D3;
+ValeurCmp = ZENER_3.6v;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DCDA5;
+Reference = D4;
+ValeurCmp = ZENER_3.6v;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5005930C;
+Reference = IC1;
+ValeurCmp = ATMEGA640-A;
+IdModule  = TQFP_100;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DCF09;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /50117198;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /500ED327;
+Reference = P1;
+ValeurCmp = PJ;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /500ED2C0;
+Reference = P2;
+ValeurCmp = PL;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /500ED32F;
+Reference = P3;
+ValeurCmp = PH;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /500ED421;
+Reference = P4;
+ValeurCmp = PG;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /500ED2D8;
+Reference = P5;
+ValeurCmp = PA;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /500ED278;
+Reference = P6;
+ValeurCmp = PC;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /500ED25D;
+Reference = P7;
+ValeurCmp = PE;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50116F8E;
+Reference = P8;
+ValeurCmp = PB;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5011BC61;
+Reference = P9;
+ValeurCmp = POWER;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50106BD6;
+Reference = P10;
+ValeurCmp = SERIAL;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50187935;
+Reference = P11;
+ValeurCmp = A2;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DBBE7;
+Reference = P12;
+ValeurCmp = ISPROG;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50187424;
+Reference = P13;
+ValeurCmp = A1;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /500F1A30;
+Reference = R1;
+ValeurCmp = 47k;
+IdModule  = rc-master-smd-R1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /500F1D19;
+Reference = R2;
+ValeurCmp = 150;
+IdModule  = rc-master-smd-R1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /500F1D94;
+Reference = R3;
+ValeurCmp = 150;
+IdModule  = rc-master-smd-R1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DCE95;
+Reference = R4;
+ValeurCmp = 68;
+IdModule  = rc-master-smd-R1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DCE90;
+Reference = R5;
+ValeurCmp = 68;
+IdModule  = rc-master-smd-R1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /500F1747;
+Reference = R6;
+ValeurCmp = 1.5k;
+IdModule  = rc-master-smd-R1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /50116F32;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = PUSHBUTTON_10x10_4pin_TH;
+EndCmp
+
+BeginCmp
+TimeStamp = /500DBD15;
+Reference = X1;
+ValeurCmp = 16mhz;
+IdModule  = CRYSTAL_TXC7A_5.00x3.20_SMD;
+EndCmp
+
+EndListe
