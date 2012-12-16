@@ -10,3 +10,5 @@ http://www.workinprogress.ca/projects/hicu/
 - generic firmware
 - pure data external
 - bald approved
+
+![hicu](http://www.workinprogress.ca/wp-content/uploads/hicu_assembled.jpg)
